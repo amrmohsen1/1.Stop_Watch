@@ -1,4 +1,7 @@
-Stop Watch controlled by microcontroller Atmega32.
+****************************************************************
+Description: Stop Watch controlled by microcontroller Atmega32.
+Date       : 9/2023
+****************************************************************
 Project Specification:
 1- Atmega32 microcontroller with frequency 1Mhz.
 2- Using Timer1 with CTC mode 
