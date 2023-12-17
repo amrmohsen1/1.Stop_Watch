@@ -1,0 +1,9 @@
+Stop Watch controlled by microcontroller Atmega32.
+Project Specification:
+1- Atmega32 microcontroller with frequency 1Mhz.
+2- Using Timer1 with CTC mode 
+3- Using six Common anode 7-Segements connected in Multiplexed-technique and one 7447 decoder.
+4- Using External Interrupts (INT0, INT1, INT2) to control the Stop Watch ( Reset / Pause / Resume) , Respectively.
+5- Configuring INT0 and INT2 with falling edge.
+6- Configuring INT1 with raising edge.
+7- The Simulation done using Proteus Software.
